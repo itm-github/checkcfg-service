@@ -34,4 +34,4 @@ jobs:
           prerelease: false
           automatic_release_tag: "latest"
           files: |
-            checkCfgService.exe
+            dist/checkCfgService.exe
