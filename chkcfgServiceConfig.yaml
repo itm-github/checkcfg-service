@@ -1,0 +1,14 @@
+---
+orgname: testorg
+
+http_bot_url: "https://telegram-bot-notifier-krawzvtlsq-uc.a.run.app/upload_file"
+http_user: "itm"
+http_password: "sdlkfjlksdf987kHKHssdfsdlifukjdhfs98d7fksnf"
+
+jobs:
+
+  - name: "getPcConfig"
+    reports_schedule:
+      every: ""
+      timeunit: "monday"
+      at: "16:32:30"
